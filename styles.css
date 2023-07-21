@@ -38,7 +38,8 @@ html,body{
 }
 .navbar{
     padding: 1% 2% 8%;
-    font-weight: 200;   
+    font-weight: 200; 
+    z-index: 100;
 }
 .nav-item{
     padding: 0 0 0 10px;
